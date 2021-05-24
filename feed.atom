@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://praveenjuge.github.io/reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T00:31:21.764Z</updated>
-    <generator>osmosfeed 1.7.2</generator>
+    <updated>2021-05-24T00:29:27.296Z</updated>
+    <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://praveenjuge.github.io/reader/index.html"/>
     <link rel="self" href="https://praveenjuge.github.io/reader/feed.atom"/>
     <entry>
